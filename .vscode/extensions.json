@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer",
+        "msjsdiag.debugger-for-chrome",
+        "formulahendry.auto-rename-tag",
+        "esbenp.prettier-vscode"
+    ]
+}
