@@ -8,5 +8,6 @@ body {
 }
 
 code {
-  font-family: 'Open Sans', sans-serif;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
